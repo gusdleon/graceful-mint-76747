@@ -4,15 +4,6 @@ sections:
   - type: hero_section
     title: Who We Are
     align: center
-  - type: cta_section
-    title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
 seo:
   title: Who We Are
   description: This is the about us page
